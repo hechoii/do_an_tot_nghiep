@@ -6,6 +6,6 @@ MSSV: 20227108
 
 Thư mục code chứa notebook dùng để huấn luyện và đánh giá các thuật toán.
 
-Thư mục results chứa các bảng kết quả đã sử dụng trong đồ án.
+Thư mục outputs chứa các bảng kết quả đã sử dụng trong đồ án.
 
 Thư mục figures chứa hình vẽ xuất từ kết quả thực nghiệm.
